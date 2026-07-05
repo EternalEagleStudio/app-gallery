@@ -10,6 +10,6 @@
 
 
 ## English(由 *DeepSeek* 翻译):
-This project is first published on Gitee (China). You are welcome to visit the Future Repository there.
+This project is first published on Gitee (China). You are welcome to visit app-gallery Repository there.
 The GitHub mirror may be delayed or out of sync – we appreciate your understanding.
 As our organization has limited access to external networks, we kindly ask for your patience and forgiveness.
